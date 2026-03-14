@@ -8,3 +8,8 @@
 - 直接起動する場合: `CODEX_HOME="$PWD/.codex" codex`
 
 ※ もし `~/.codex/skills/ln-brainstormer` にも入っている場合、他プロジェクトでも見えてしまうので「本当にこのプロジェクトだけ」にしたいならそちらは削除してください。
+
+## アイデアの置き場
+
+- コンセプト単位: `ideas/<concept>/`（入口は `ideas/<concept>/index.md`）
+- 共通資産: `library/`
